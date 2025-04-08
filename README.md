@@ -1,8 +1,8 @@
 <a href="https://github.com/yumiyulili/">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumiyulili&layout=compact&cache_seconds=21600&langs_count=6&theme=radical&card_width=240" />
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumiyulili&layout=compact&cache_seconds=21600&langs_count=6&theme=dracula&card_width=240" />
 </a>
 <a href="https://github.com/yumiyulili/">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yumiyulili&layout=compact&cache_seconds=21600&langs_count=6&theme=radical&card_width=241" />
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yumiyulili&layout=compact&cache_seconds=21600&langs_count=6&theme=dracula&card_width=241" />
 </a>
 
 <!--
