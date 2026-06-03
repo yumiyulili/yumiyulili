@@ -1,12 +1,6 @@
-<div align="center">
-  <a href="https://github.com/yumiyulili">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumiyulili&layout=compact&langs_count=6&theme=dracula&hide_border=true" />
-  </a>
+<figure><embed src="https://wakatime.com/share/@yumiyulili/1dac56a5-28a9-4a18-bcb0-33bfd3d3b381.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@yumiyulili/7e8f9357-be4d-4345-9361-628e899c1cf4.svg"></embed></figure>
 
-  <a href="https://wakatime.com/@yumiyulili">
-    <img height="150" src="https://wakatime.com/share/@yumiyulili/graphs/record.svg" />
-  </a>
-</div>
 
 <!--
 **yumiyulili/yumiyulili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
