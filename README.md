@@ -1,6 +1,11 @@
-<figure><embed src="https://wakatime.com/share/@yumiyulili/1dac56a5-28a9-4a18-bcb0-33bfd3d3b381.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@yumiyulili/7e8f9357-be4d-4345-9361-628e899c1cf4.svg"></embed></figure>
-
+<div align="center">
+  <a href="https://wakatime.com/@yumiyulili">
+    <img src="https://wakatime.com/share/@yumiyulili/1dac56a5-28a9-4a18-bcb0-33bfd3d3b381.svg" alt="WakaTime Activity" height="150" />
+  </a>
+  <a href="https://wakatime.com/@yumiyulili">
+    <img src="https://wakatime.com/share/@yumiyulili/7e8f9357-be4d-4345-9361-628e899c1cf4.svg" alt="WakaTime Languages" height="150" />
+  </a>
+</div>
 
 <!--
 **yumiyulili/yumiyulili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
