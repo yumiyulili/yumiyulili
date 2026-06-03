@@ -1,9 +1,9 @@
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumiyulili&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yumiyulili&layout=compact&theme=dracula&hide_border=true" height="150" />
 
 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yumiyulili&theme=dracula&hide_border=true&layout=compact" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=yumiyulili&layout=compact&theme=dracula&hide_border=true" height="150" />
 </div>
 
 <!--
