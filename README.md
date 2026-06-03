@@ -1,10 +1,10 @@
 <div align="center">
-  <a href="https://github.com/yumiyulili/">
+  <a href="https://github.com/yumiyulili">
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumiyulili&layout=compact&langs_count=6&theme=dracula&hide_border=true" />
   </a>
 
-  <a href="https://github.com/yumiyulili/">
-    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=yumiyulili&theme=dracula&hide_border=true" />
+  <a href="https://wakatime.com/@yumiyulili">
+    <img height="150" src="https://wakatime.com/share/@yumiyulili/graphs/record.svg" />
   </a>
 </div>
 
