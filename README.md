@@ -2,8 +2,9 @@
   <a href="https://github.com/yumiyulili/">
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumiyulili&layout=compact&langs_count=6&theme=dracula&hide_border=true" />
   </a>
+
   <a href="https://github.com/yumiyulili/">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=yumiyulili&theme=dracula&hide_border=true" />
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=yumiyulili&theme=dracula&hide_border=true" />
   </a>
 </div>
 
